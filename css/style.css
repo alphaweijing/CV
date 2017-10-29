@@ -140,19 +140,19 @@
 	margin-left: -28px;
 }
 .html .grade {
-	margin-left: 15px;
+	margin-left: 13px;
 }
 .css .grade {
-	margin-left: 28px;
+	margin-left: 23px;
 }
 .javascript .grade {
-	margin-left: -21px;
+	margin-left: -25px;
 }
 .java .grade {
-	margin-left: 20px;
+	margin-left: 17px;
 }
 .php .grade {
-	margin-left: 25px;
+	margin-left: 23px;
 }
 .ps .fa:nth-child(1),
 .ps .fa:nth-child(2),
